@@ -1,6 +1,12 @@
 # Actor-Critic on CartPole
 
-This repo implements the **Actor-Critic method** on the CartPole-v0 environment using Keras.
+This repository contains an implementation of the **Actor-Critic method** on the CartPole-v0 environment using Keras.  
+
+The code is adapted from the official Keras example:  
+- [Keras documentation: Actor-Critic CartPole](https://keras.io/examples/rl/actor_critic_cartpole/)  
+- [Source code on GitHub](https://github.com/keras-team/keras-io/blob/master/examples/rl/actor_critic_cartpole.py)  
+
+I studied the documentation and brought the source code into this repo for learning and experimentation purposes.
 
 ## How it works
 - **Environment (CartPole)**: A pole is attached to a cart. The agent must keep the pole upright by applying left/right force.
