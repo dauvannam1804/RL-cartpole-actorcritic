@@ -48,5 +48,12 @@ I studied the documentation and brought the source code into this repo for learn
 - **Critic** learns *how good it is* (value).  
 - They cooperate to stabilize and accelerate reinforcement learning.
 
+## Visualizations
+In early stages of training:
+![Imgur](https://i.imgur.com/5gCs5kH.gif)
+
+In later stages of training:
+![Imgur](https://i.imgur.com/5ziiZUD.gif)
+"""
 
 
